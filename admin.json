@@ -1,16 +1,16 @@
 {
   "prefix": "+",
   "adminUIDs": [
-   "100080008820985"
+   "100092277325670"
   ],
   "moderatorUIDs": [
-    "100080008820985",
+    "100092277325670",
     "",
     ""
   ],
-  "botName": "》+《 ❃ ➠ Zenpai🗿👑✨",
-  "ownerName": "BRYL HUNG",
-  "facebookLink": "https://www.facebook.com/brylofcourse.ARTHERET",
+  "botName": "》+《 ❃ ➠ Davbot",
+  "ownerName": "David mpongo",
+  "facebookLink": "https://www.facebook.com/profile.php?id=100092277325670",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
